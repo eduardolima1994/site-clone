@@ -1,4 +1,4 @@
-# Clona sites
+# Clona Sites
 
 Este é um projeto de clonagem visual dos sites, onde os usuários podem digitar um site e clonar seus códigos HTML, CSS e JS.
 
@@ -35,3 +35,7 @@ npm install
 ```
 node index.js
 ```
+
+## Navegação
+
+- O projeto estará localizado na pasta raiz do seu sistema operacional.
