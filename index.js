@@ -3,7 +3,7 @@ import PuppeteerPlugin from "website-scraper-puppeteer";
 
 await scrape({
   urls: ["https://www.apple.com/"],
-  directory: "/teste/pastasitecopiado",
+  directory: "/copia/pastasitecopiado",
   plugins: [
     new PuppeteerPlugin({
       launchOptions: { headless: false } /* optional /
