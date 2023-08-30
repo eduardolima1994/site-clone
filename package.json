@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "esm": "^3.2.25",
+    "website-scraper": "^5.3.1",
+    "website-scraper-puppeteer": "^1.1.0"
+  },
+  "name": "ina",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
